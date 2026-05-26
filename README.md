@@ -22,12 +22,13 @@ Built using React, Firebase Authentication & TMDB API.
 Structured solutions for placement preparation.
 
 ---
-
 # 📊 GitHub Stats
 
-![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankanlaskar2320&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankanlaskar2320&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankanlaskar2320&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankanlaskar2320&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=ankanlaskar2320&theme=tokyonight&hide_border=true)
 
 ---
 
