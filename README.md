@@ -1,37 +1,60 @@
-# 👋 Hi, I'm Ankan Laskar
+<div align="center">
+█████╗ ███╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗████╗  ██║
+███████║██╔██╗ ██║█████╔╝ ███████║██╔██╗ ██║
+██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██║╚██╗██║
+██║  ██║██║ ╚████║██║  ██╗██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+⚡ Full Stack Developer in Progress · Building in Public · Non-CS → Dev
+Show Image
+Show Image
+</div>
 
-💻 Aspiring Software Engineer  
-🧠 DSA & Problem Solving in C++  
-⚛️ React Developer  
-🔥 Building Full Stack Projects  
+🧠 About Me
+jsconst ankan = {
+  status:    "Non-CS student → Full Stack Dev",
+  currently: ["Learning Express.js", "Building REST APIs", "Mastering MongoDB"],
+  stack:     ["React", "Node.js", "JavaScript", "Firebase", "SQL", "C/C++"],
+  deployed:  "Netflix Clone → Live on GitHub Pages",
+  goal:      "Land a Full Stack role through projects, not degrees",
+  motto:     "Ship fast. Learn faster."
+};
 
----
+🚀 Featured Project
+🎬 Netflix Clone
 
-# 🚀 Tech Stack
+React · Firebase · Vite · GitHub Pages
 
-![My Skills](https://skillicons.dev/icons?i=cpp,js,react,firebase,git,github,html,css)
+A fully deployed Netflix-inspired streaming UI with Firebase authentication, TMDB API integration, and responsive design.
+React.js Firebase Vite TMDB API GitHub Pages
 
----
+🛠️ Tech Stack
+<div align="center">
+FrontendBackendTools & DBReact · HTML · CSS · JSNode.js · Express (learning)Firebase · SQL · MongoDB (learning)Vite · GitHub PagesREST APIs · PostmanGit · GitHub · VS Code
+</div>
 
-# 📌 Featured Projects
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
 
-## 🎬 Netflix Clone
-Built using React, Firebase Authentication & TMDB API.
+📈 What I'm Building Toward
 
-## 📚 DSA in C++
-Structured solutions for placement preparation.
+ Master Express.js + REST API design
+ Build a full MERN stack project
+ Deploy a backend API to production
+ 5+ projects on GitHub by end of year
+ Land first Full Stack Developer role 🎯
 
----
 
-# 📊 GitHub Stats
+🤝 Let's Connect
+<div align="center">
+Show Image
+Open to internships, collaborations, and junior dev opportunities.
+</div>
 
-![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankanlaskar2320&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankanlaskar2320&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Connect With Me
-
-- https://www.linkedin.com/in/ankan-laskar-451a01290
-- ankanlaskar2320@gmail.com
+<div align="center">
+<sub>⚡ Building proof through code, not credentials.</sub>
+</div>
