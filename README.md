@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankan Laskar
 
-<!--
-**ankanlaskar2320/ankanlaskar2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+🧠 DSA & Problem Solving in C++  
+⚛️ React Developer  
+🔥 Building Full Stack Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=cpp,js,react,firebase,git,github,html,css)
+
+---
+
+# 📌 Featured Projects
+
+## 🎬 Netflix Clone
+Built using React, Firebase Authentication & TMDB API.
+
+## 📚 DSA in C++
+Structured solutions for placement preparation.
+
+---
+
+# 📊 GitHub Stats
+
+![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankanlaskar2320&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankanlaskar2320&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+- https://www.linkedin.com/in/ankan-laskar-451a01290
+- ankanlaskar2320@gmail.com
