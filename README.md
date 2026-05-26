@@ -53,6 +53,14 @@ const ankan = {
 
 ---
 
+### 🧮 Expression Evaluator in C++  
+
+> A C++ based arithmetic expression evaluator supporting infix expressions, operator precedence, and stack-based parsing techniques
+
+`C++` `Stacks` `Expression Parsing` `DSA` `Problem Solving`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
