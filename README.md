@@ -39,6 +39,13 @@ const ankan = {
 
 ##  Featured Projects
 
+### [Vertex Editor](https://vertex-editor-rho.vercel.app) &nbsp; `Live ↗`
+> A one-line pitch of what it does, e.g. "A browser-based editor for creating and manipulating vertices/shapes on a canvas"
+
+`React.js` `JavaScript` `Redis.io` `Vite`
+
+---
+
 ### [Netflix Clone](https://ankanlaskar2320.github.io/netflix_clone/) &nbsp; `Live ↗`
 > A Netflix-inspired streaming UI with Firebase Auth & TMDB API integration
 
