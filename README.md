@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ankan Laskar
+#  Ankan Laskar
 
 ### Full Stack Developer in Progress · Building in Public · Non-CS → Dev
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```js
 const ankan = {
@@ -27,7 +27,7 @@ const ankan = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -37,31 +37,25 @@ const ankan = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎬 [Netflix Clone](https://ankanlaskar2320.github.io/netflix_clone/) &nbsp; `Live ↗`
+### [Netflix Clone](https://ankanlaskar2320.github.io/netflix_clone/) &nbsp; `Live ↗`
 > A Netflix-inspired streaming UI with Firebase Auth & TMDB API integration
 
 `React.js` `Firebase` `Vite` `TMDB API` `GitHub Pages`
 
 ---
 
-### 📚 DSA in C++
+### DSA in C++
 > Structured Data Structures & Algorithms solutions for placement preparation
 
 `C++` `Problem Solving` `Competitive Programming`
 
 ---
 
-### 🧮 Expression Evaluator in C++  
 
-> A C++ based arithmetic expression evaluator supporting infix expressions, operator precedence, and stack-based parsing techniques
 
-`C++` `Stacks` `Expression Parsing` `DSA` `Problem Solving`
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -74,7 +68,7 @@ const ankan = {
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -87,5 +81,5 @@ const ankan = {
 ---
 
 <div align="center">
-<sub>⚡ Building proof through code, not credentials.</sub>
+<sub> Building proof through code, not credentials.</sub>
 </div>
